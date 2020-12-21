@@ -3,8 +3,8 @@
 <br>
 *Sintax padrão*
 
-<br><p>Caracter '$' é reservado para informar a maquina continuar com o valor atual
-<br><p>Sempre apos passar uma sequencia de parametros e acoes é necessario colcar '&' no final da linha
+<br><p>Caracter '$' é reservado para informar a maquina a continuar com o valor atual
+<br><p>Sempre apos passar uma sequencia de parametros e acoes é necessario colocar '&' no final da linha
 <br><p>Apos a escrita de um estado é necessario colocar ';' no final da linha
 <br><p>exemplo de codigo:<br>
 <br>NomeDoEstado:
